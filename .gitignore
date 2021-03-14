@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+gui-server.exe
+gui-server
 
 # production
 /build
